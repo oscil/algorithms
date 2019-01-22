@@ -1,3 +1,5 @@
+#for visualization use http://btv.melezinek.cz/binary-heap.html
+
 import random
 import copy
 import math
